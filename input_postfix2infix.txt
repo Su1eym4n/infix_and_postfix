@@ -1,0 +1,4 @@
+(a+b) ab+
+((a+b)+c) ab+c+
+((a+b)+(c*(c+a)))  ab+cca+*+
+((((a+b)+(c*(c+a)))/h)^l) ab+cca+*+h/l^
